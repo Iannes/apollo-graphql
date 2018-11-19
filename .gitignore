@@ -1,3 +1,4 @@
 node_modules
 .env
 store.sqlite
+.DS_Store
